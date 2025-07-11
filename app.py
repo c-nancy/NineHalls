@@ -133,7 +133,7 @@ def analyze_avatar(image):
 
 # Gradio界面设计
 with gr.Blocks(title="赛博看相：头像玄学检测器", theme=gr.themes.Soft()) as app:
-    gr.Markdown("## 🔮 你的头像在玄学中是好是坏？上传检测！")
+    gr.Markdown("## 🔮 赛博看相：你的头像在玄学中是好是坏？上传检测！")
 
     with gr.Row():
         with gr.Column():
