@@ -1,0 +1,15 @@
+【五行八卦能量诊断报告】
+
+🔥 *核心五行属性*
+主元素：「{wuxing_name}」（能量值：{wuxing_score}/100）
+📜 判定依据：{wuxing_reason}
+
+🧭 *九宫方位诊断*
+{grid_analysis}
+
+⚖️ *能量平衡建议*
+{overall_suggestion}
+
+🌠 运势启示：{fortune_tip}
+
+✨ 提示：本报告仅供娱乐参考。真实运势需结合生辰八字综合判断。

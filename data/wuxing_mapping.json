@@ -1,0 +1,290 @@
+{
+  "bicycle": {
+    "label": "bicycle",
+    "element": {"金": 0.7, "火": 0.3},
+    "name": "自行车",
+    "reason": "金属框架属金，运动属性属火"
+  },
+  "car": {
+    "label": "car",
+    "element": {"金": 0.7, "火": 0.3},
+    "name": "汽车",
+    "reason": "金属车身属金，发动机运转属火"
+  },
+  "motorcycle": {
+    "label": "motorcycle",
+    "element": {"金": 0.6, "火": 0.4},
+    "name": "摩托车",
+    "reason": "金属结构属金，高速运动属火"
+  },
+  "airplane": {
+    "label": "airplane",
+    "element": {"金": 0.8, "火": 0.2},
+    "name": "飞机",
+    "reason": "金属机身属金，少量发动机热能属火"
+  },
+  "bus": {
+    "label": "bus",
+    "element": {"金": 0.7, "火": 0.3},
+    "name": "公交车",
+    "reason": "金属车身属金，发动机运转属火"
+  },
+  "train": {
+    "label": "train",
+    "element": {"金": 0.8, "火": 0.2},
+    "name": "火车",
+    "reason": "金属车体属金，少量热能属火"
+  },
+  "truck": {
+    "label": "truck",
+    "element": {"金": 0.7, "火": 0.3},
+    "name": "卡车",
+    "reason": "金属结构属金，发动机运转属火"
+  },
+  "boat": {
+    "label": "boat",
+    "element": {"水": 0.6, "木": 0.4},
+    "name": "船",
+    "reason": "水中航行属水，早期木制船体属木"
+  },
+  "bird": {
+    "label": "bird",
+    "element": {"木": 0.6, "火": 0.4},
+    "name": "鸟",
+    "reason": "飞翔与树木相关属木，活力属火"
+  },
+  "cat": {
+    "label": "cat",
+    "element": {"木": 0.7},
+    "name": "猫",
+    "reason": "灵活敏捷属木"
+  },
+  "dog": {
+    "label": "dog",
+    "element": {"土": 0.6, "火": 0.4},
+    "name": "狗",
+    "reason": "忠诚稳重属土，热情活力属火"
+  },
+  "horse": {
+    "label": "horse",
+    "element": {"火": 0.7},
+    "name": "马",
+    "reason": "奔跑速度快，活力旺盛属火"
+  },
+  "sheep": {
+    "label": "sheep",
+    "element": {"土": 0.8},
+    "name": "羊",
+    "reason": "温顺平和属土"
+  },
+  "cow": {
+    "label": "cow",
+    "element": {"土": 0.9},
+    "name": "牛",
+    "reason": "稳重踏实属土"
+  },
+  "elephant": {
+    "label": "elephant",
+    "element": {"土": 0.8, "水": 0.2},
+    "name": "大象",
+    "reason": "体型庞大稳重属土，喜水习性属水"
+  },
+  "bear": {
+    "label": "bear",
+    "element": {"土": 0.7, "水": 0.3},
+    "name": "熊",
+    "reason": "力量强大属土，部分种类喜水属水"
+  },
+  "zebra": {
+    "label": "zebra",
+    "element": {"木": 0.5, "火": 0.5},
+    "name": "斑马",
+    "reason": "草原生活属木，奔跑活力属火"
+  },
+  "giraffe": {
+    "label": "giraffe",
+    "element": {"木": 0.9},
+    "name": "长颈鹿",
+    "reason": "高大树木相关属木"
+  },
+  "potted plant": {
+    "label": "potted plant",
+    "element": {"木": 1.0},
+    "name": "盆栽植物",
+    "reason": "植物属性纯木"
+  },
+  "banana": {
+    "label": "banana",
+    "element": {"木": 0.8, "土": 0.2},
+    "name": "香蕉",
+    "reason": "植物果实属木，生长需要土"
+  },
+  "apple": {
+    "label": "apple",
+    "element": {"木": 0.9},
+    "name": "苹果",
+    "reason": "树上果实属木"
+  },
+  "orange": {
+    "label": "orange",
+    "element": {"木": 0.7, "火": 0.3},
+    "name": "橙子",
+    "reason": "植物果实属木，颜色温暖属火"
+  },
+  "broccoli": {
+    "label": "broccoli",
+    "element": {"木": 0.9},
+    "name": "西兰花",
+    "reason": "蔬菜植物属木"
+  },
+  "carrot": {
+    "label": "carrot",
+    "element": {"木": 0.6, "土": 0.4},
+    "name": "胡萝卜",
+    "reason": "植物属性属木，地下生长属土"
+  },
+  "tv": {
+    "label": "tv",
+    "element": {"火": 0.6, "金": 0.4},
+    "name": "电视机",
+    "reason": "发光发热属火，金属元件属金"
+  },
+  "laptop": {
+    "label": "laptop",
+    "element": {"火": 0.7, "金": 0.3},
+    "name": "笔记本电脑",
+    "reason": "电子发热属火，金属外壳属金"
+  },
+  "cell phone": {
+    "label": "cell phone",
+    "element": {"火": 0.6, "金": 0.4},
+    "name": "手机",
+    "reason": "电子设备属火，金属材料属金"
+  },
+  "book": {
+    "label": "book",
+    "element": {"木": 0.7, "火": 0.3},
+    "name": "书籍",
+    "reason": "纸质来源属木，知识传播属火"
+  },
+  "vase": {
+    "label": "vase",
+    "element": {"土": 0.8},
+    "name": "花瓶",
+    "reason": "陶瓷材质属土"
+  },
+  "clock": {
+    "label": "clock",
+    "element": {"金": 0.9},
+    "name": "时钟",
+    "reason": "金属机械结构属金"
+  },
+  "scissors": {
+    "label": "scissors",
+    "element": {"金": 1.0},
+    "name": "剪刀",
+    "reason": "金属工具纯金"
+  },
+  "chair": {
+    "label": "chair",
+    "element": {"木": 0.8},
+    "name": "椅子",
+    "reason": "木质家具属木"
+  },
+  "couch": {
+    "label": "couch",
+    "element": {"木": 0.6, "火": 0.4},
+    "name": "沙发",
+    "reason": "框架木质属木，温暖舒适属火"
+  },
+  "bed": {
+    "label": "bed",
+    "element": {"木": 0.7, "土": 0.3},
+    "name": "床",
+    "reason": "木质结构属木，安稳属性属土"
+  },
+  "dining table": {
+    "label": "dining table",
+    "element": {"木": 0.9},
+    "name": "餐桌",
+    "reason": "木质家具属木"
+  },
+  "bottle": {
+    "label": "bottle",
+    "element": {"水": 0.5, "金": 0.5},
+    "name": "瓶子",
+    "reason": "装水功能属水，玻璃/金属材质属金"
+  },
+  "wine glass": {
+    "label": "wine glass",
+    "element": {"金": 0.7, "水": 0.3},
+    "name": "酒杯",
+    "reason": "玻璃材质属金，装酒功能属水"
+  },
+  "knife": {
+    "label": "knife",
+    "element": {"金": 1.0},
+    "name": "刀",
+    "reason": "金属工具纯金"
+  },
+  "microwave": {
+    "label": "microwave",
+    "element": {"火": 0.8, "金": 0.2},
+    "name": "微波炉",
+    "reason": "加热功能属火，金属外壳属金"
+  },
+  "oven": {
+    "label": "oven",
+    "element": {"火": 1.0},
+    "name": "烤箱",
+    "reason": "加热功能纯火"
+  },
+  "refrigerator": {
+    "label": "refrigerator",
+    "element": {"金": 0.6, "水": 0.4},
+    "name": "冰箱",
+    "reason": "金属外壳属金，制冷功能属水"
+  },
+  "person": {
+    "label": "person",
+    "element": {"火": 0.7, "木": 0.3},
+    "name": "人",
+    "reason": "生命活力属火，生长属性属木"
+  },
+  "tree": {
+    "label": "tree",
+    "element": {"木": 1.0},
+    "name": "树",
+    "reason": "植物属性纯木"
+  },
+  "water": {
+    "label": "water",
+    "element": {"水": 1.0},
+    "name": "水",
+    "reason": "自然元素纯水"
+  },
+  "fire hydrant": {
+    "label": "fire hydrant",
+    "element": {"金": 0.6, "水": 0.4},
+    "name": "消防栓",
+    "reason": "金属材质属金，连接水源属水"
+  },
+  "umbrella": {
+    "label": "umbrella",
+    "element": {"木": 0.6, "水": 0.4},
+    "name": "雨伞",
+    "reason": "伞骨木质属木，挡雨功能属水"
+  },
+  "sports ball": {
+    "label": "sports ball",
+    "element": {"木": 0.5, "火": 0.5},
+    "name": "运动球",
+    "reason": "皮质材料属木，运动活力属火"
+  },
+  "default": {
+    "label": "default",
+    "element": {"金": 0.3, "木": 0.3, "水": 0.2, "火": 0.1, "土": 0.1},
+    "name": "默认",
+    "reason": "通用默认五行分布"
+  }
+}

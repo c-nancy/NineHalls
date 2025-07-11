@@ -1,0 +1,123 @@
+{
+  "grids": [
+    {
+      "index": 0,
+      "name": "乾宫",
+      "symbol": "☰",
+      "position": "西北",
+      "element": "金",
+      "colors": ["#C0C0C0", "#E6E6FA"],
+      "shapes": ["圆形", "完整"],
+      "recommend": ["金属", "球体"],
+      "avoid": ["红色", "破碎"],
+      "meaning": "权威、尊长"
+    },
+    {
+      "index": 1,
+      "name": "坎宫",
+      "symbol": "☵",
+      "position": "北",
+      "element": "水",
+      "colors": ["#0000FF", "#000080"],
+      "shapes": ["波浪形", "曲线"],
+      "recommend": ["鱼", "水景"],
+      "avoid": ["黄土色", "方形"],
+      "meaning": "事业、风险"
+    },
+    {
+      "index": 2,
+      "name": "艮宫",
+      "symbol": "☶",
+      "position": "东北",
+      "element": "土",
+      "colors": ["#DAA520", "#B8860B"],
+      "shapes": ["山形", "稳定"],
+      "recommend": ["山景", "厚重物"],
+      "avoid": ["绿色", "细长"],
+      "meaning": "学业运"
+    },
+    {
+      "index": 3,
+      "name": "兑宫",
+      "symbol": "☱",
+      "position": "西",
+      "element": "金",
+      "colors": ["#FFFFFF", "#FFD700"],
+      "shapes": ["圆形", "弧形"],
+      "recommend": ["金属装饰", "表情"],
+      "avoid": ["红色", "三角形"],
+      "meaning": "人际、口舌"
+    },
+    {
+      "index": 4,
+      "name": "中宫",
+      "symbol": "",
+      "position": "中央",
+      "element": "土",
+      "colors": ["#F0E68C", "#CD853F"],
+      "shapes": ["对称", "平衡"],
+      "recommend": ["静物", "大地色"],
+      "avoid": ["尖锐物", "杂乱"],
+      "meaning": "自我能量核心"
+    },
+    {
+      "index": 5,
+      "name": "震宫",
+      "symbol": "☳",
+      "position": "东",
+      "element": "木",
+      "colors": ["#00FF00", "#228B22"],
+      "shapes": ["柱状", "垂直"],
+      "recommend": ["植物", "书籍"],
+      "avoid": ["金属色", "圆形"],
+      "meaning": "健康运"
+    },
+    {
+      "index": 6,
+      "name": "坤宫",
+      "symbol": "☷",
+      "position": "西南",
+      "element": "土",
+      "colors": ["#D2B48C", "#8B4513"],
+      "shapes": ["方形", "平坦"],
+      "recommend": ["陶瓷", "山石"],
+      "avoid": ["杂乱线条", "尖锐物"],
+      "meaning": "家庭、稳定"
+    },
+    {
+      "index": 7,
+      "name": "离宫",
+      "symbol": "☲",
+      "position": "南",
+      "element": "火",
+      "colors": ["#FF0000", "#FF4500"],
+      "shapes": ["三角形", "放射"],
+      "recommend": ["灯光", "阳光"],
+      "avoid": ["黑色", "波浪"],
+      "meaning": "名声运"
+    },
+    {
+      "index": 8,
+      "name": "巽宫",
+      "symbol": "☴",
+      "position": "东南",
+      "element": "木",
+      "colors": ["#32CD32", "#6B8E23"],
+      "shapes": ["流动线条", "斜向"],
+      "recommend": ["花卉", "风铃"],
+      "avoid": ["金属色", "直角"],
+      "meaning": "财运、贵人"
+    }
+  ],
+  "color_to_element": {
+    "red": "火",
+    "orange": "火",
+    "yellow": "土",
+    "green": "木",
+    "blue": "水",
+    "purple": "火",
+    "white": "金",
+    "black": "水",
+    "brown": "土"
+  }
+}
